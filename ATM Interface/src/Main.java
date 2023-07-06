@@ -129,7 +129,7 @@ public class Main {
                     break;
                 }
                 default: {
-                    System.out.println("You have selected the wrong option.");
+                    System.out.println("Please Select Right Option.");
                 }
             }
         }
